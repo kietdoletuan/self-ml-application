@@ -1,2 +1,3 @@
 data/
 flower_dataset/
+*.pth
